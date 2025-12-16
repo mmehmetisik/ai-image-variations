@@ -9,9 +9,8 @@ A powerful multi-platform AI image transformation tool with a professional Strea
 
 ## 📸 Demo
 
-<!-- TODO: Add screenshot here -->
-<!-- Place your screenshot in assets/sample_images/ folder and update the path below -->
-![AI Image Variations Generator Demo](assets/sample_images/demo_screenshot.png)
+<img width="2546" height="1273" alt="Ekran görüntüsü 2025-12-17 003810" src="https://github.com/user-attachments/assets/831309de-88ed-4fbc-bdd5-051e3810886f" />
+
 
 ## ✨ Features
 

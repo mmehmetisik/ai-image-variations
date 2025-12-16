@@ -167,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mehmet Işık**
 
-- 🐙 GitHub: [@mmehmetisik](https://github.com/mmehmetisik)
+- 📝 Medium: [@mmehmetisik](https://medium.com/@mmehmetisik)
 - 💼 LinkedIn: [Mehmet Işık](https://www.linkedin.com/in/mehmetisik4601/)
 - 📊 Kaggle: [mehmetisik](https://www.kaggle.com/mehmetisik)
 

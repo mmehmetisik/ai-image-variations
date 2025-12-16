@@ -1,0 +1,15 @@
+streamlit==1.28.0
+python-dotenv==1.0.0
+Pillow==10.1.0
+requests==2.31.0
+numpy==1.26.0
+huggingface_hub==0.25.0
+replicate==0.32.0
+
+# === LOCAL INFERENCE DEPENDENCIES ===
+torch==2.1.0
+torchvision==0.16.0
+diffusers==0.27.0
+transformers==4.38.0
+accelerate==0.26.0
+safetensors==0.4.2

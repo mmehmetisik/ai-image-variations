@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+
+# Environment Variables (API Keys)
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User Images (Privacy)
+input_images/
+output_images/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
